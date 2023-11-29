@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center"> Welcome to To Thuy's Bio👋 </h1>
+<h3 align="center">I'm a Automation Testing Engineer</h3>
 <!--
 **ThuyHoang-01/ThuyHoang-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
